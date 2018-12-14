@@ -1,7 +1,6 @@
 {
     "orgName": "Demo Company",
     "edition": "Developer",
-    "features": ["DebugApex", "AuthorApex"],
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
     }
